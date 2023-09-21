@@ -1,0 +1,15 @@
+/*
+/public/build
+
+!app
+!public
+!license
+!readme.md
+!schema.sql
+!jsconfig.json
+!tsconfig.json
+!remix.config.js
+!tailwind.config.js
+!package.json
+!.gitignore
+!.env
